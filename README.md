@@ -2,9 +2,11 @@
 
 A simple Python tool that generates random, complex passwords using letters and numbers.
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 ## Description
 
-This project is part of the Decodelabs learning series (Week 3). It demonstrates key Python skills including:
+This project is part of the Decodelabs internship (task 3). It demonstrates key Python skills including:
 
 - **Importing Modules**: Using `random` and `string` modules
 - **String Manipulation**: Working with character sets and string concatenation
